@@ -1,0 +1,5 @@
+load_id,origin,destination,pickup_datetime,delivery_datetime,equipment_type,loadboard_rate,notes,weight,commodity_type,num_of_pieces,miles,dimensions
+LID001,"Chicago, IL","Dallas, TX",2025-06-10T09:00:00Z,2025-06-12T09:00:00Z,Dry Van,2200,"Residential area, smaller truck preferred",42000,General Freight,34,2800,53ft Trailer
+LID002,"Los Angeles, CA","Phoenix, AZ",2025-06-11T09:00:00Z,2025-06-13T09:00:00Z,Flatbed,2500,"Residential area, smaller truck preferred",45000,General Freight,12,370,48ft Flatbed
+LID003,"Atlanta, GA","Miami, FL",2025-06-12T11:00:00Z,2025-06-15T09:00:00Z,Flatbed,2340,"Residential area, smaller truck preferred",44500,General Freight,12,660,48ft Flatbed
+LID004,"Denver, CO","Kansas City, MO",2025-06-13T10:00:00Z,2025-06-14T09:00:00Z,Flatbed,1500,GPS tracking mandatory,38000,General Freight,8,390,48ft Flatbed
